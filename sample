@@ -1,0 +1,133 @@
+ <div class="card-banner" data-index="1"
+                    style="visibility: hidden; --local-scale: 0; --local-rotation: -180deg; opacity: 1;">
+                    <div class="slick-dots">
+                      <h3>Industrial</h3>
+                      <ul class="custom-dot-block-ul">
+                        <li>
+                          <button>1</button>
+                        </li>
+                        <li class="slick-active">
+                          <button>2</button>
+                        </li>
+                        <li class="">
+                          <button>3</button>
+                        </li>
+                        <li class="">
+                          <button>4</button>
+                        </li>
+                      </ul>
+                    </div>
+                    <div data-animate="true" class="home-banner-img-bg">
+                      <img data-animate="true" alt="BannerBG" loading="lazy" width="500" height="507" decoding="async"
+                        data-nimg="1" class="banner-img-bg"
+                        srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIndustrial-banner-bg.8bb10f58.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIndustrial-banner-bg.8bb10f58.png&amp;w=1080&amp;q=75 2x"
+                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIndustrial-banner-bg.8bb10f58.png&amp;w=1080&amp;q=75"
+                        style="color: transparent; animation-delay: 150ms;">
+                    </div>
+                    <div data-animate="true" class="home-banner-img-main" style="animation-delay: 300ms;">
+                      <img alt="BannerBG" loading="lazy" width="500" height="630" decoding="async" data-nimg="1"
+                        class="banner-img"
+                        srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIndustrial-banner.0cccd305.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIndustrial-banner.0cccd305.png&amp;w=1080&amp;q=75 2x"
+                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIndustrial-banner.0cccd305.png&amp;w=1080&amp;q=75"
+                        style="color: transparent;">
+                    </div>
+                    <div data-animate="true" class="home-banner-slider-text-block Industrial"
+                      style="animation-delay: 450ms;">
+                      <h3>Looking for an <b>Industrial License in Dubai?</b></h3>
+                      <div>
+                        <button class="schedule-meeting btn-anim">Schedule Meet</button>
+                        <button class="schedule-meeting chat"><img alt="ScheduleMeetingIcon" loading="lazy" width="32"
+                            height="30" decoding="async" data-nimg="1"
+                            src="/_next/static/media/schedule-meeting-icon.95c86504.svg"
+                            style="color: transparent;"></button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-banner" data-index="2"
+                    style="visibility: hidden; --local-scale: 0; --local-rotation: -180deg; opacity: 1;">
+                    <div class="slick-dots">
+                      <h3>Ecommerce</h3>
+                      <ul class="custom-dot-block-ul">
+                        <li>
+                          <button>1</button>
+                        </li>
+                        <li class="">
+                          <button>2</button>
+                        </li>
+                        <li class="slick-active">
+                          <button>3</button>
+                        </li>
+                        <li class="">
+                          <button>4</button>
+                        </li>
+                      </ul>
+                    </div>
+                    <div data-animate="true" class="home-banner-img-bg"><img data-animate="true" alt="BannerBG"
+                        loading="lazy" width="500" height="543" decoding="async" data-nimg="1" class="banner-img-bg"
+                        srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FEcommerce-banner-bg.7d2e365f.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FEcommerce-banner-bg.7d2e365f.png&amp;w=1080&amp;q=75 2x"
+                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FEcommerce-banner-bg.7d2e365f.png&amp;w=1080&amp;q=75"
+                        style="color: transparent; animation-delay: 150ms;"></div>
+                    <div data-animate="true" class="home-banner-img-main" style="animation-delay: 300ms;"><img
+                        alt="BannerBG" loading="lazy" width="500" height="706" decoding="async" data-nimg="1"
+                        class="banner-img"
+                        srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FEcommerce-banner.635b8914.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FEcommerce-banner.635b8914.png&amp;w=1080&amp;q=75 2x"
+                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FEcommerce-banner.635b8914.png&amp;w=1080&amp;q=75"
+                        style="color: transparent;"></div>
+                    <div data-animate="true" class="home-banner-slider-text-block Ecommerce"
+                      style="animation-delay: 450ms;">
+                      <h3>Register an <b>E-commerce License in Dubai</b></h3>
+                      <div>
+                        <button class="schedule-meeting btn-anim">Schedule Meet</button>
+                        <button class="schedule-meeting chat">
+                          <img alt="ScheduleMeetingIcon" loading="lazy" width="32" height="30" decoding="async"
+                            data-nimg="1" src="/_next/static/media/schedule-meeting-icon.95c86504.svg"
+                            style="color: transparent;">
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-banner" data-index="3"
+                    style="visibility: visible; --local-scale: 1; --local-rotation: 0deg; opacity: 1;" data-selected="">
+                    <div class="slick-dots">
+                      <h3>Fruits Trading</h3>
+                      <ul class="custom-dot-block-ul">
+                        <li>
+                          <button>1</button>
+                        </li>
+                        <li class="">
+                          <button>2</button>
+                        </li>
+                        <li class="">
+                          <button>3</button>
+                        </li>
+                        <li class="slick-active">
+                          <button>4</button>
+                        </li>
+                      </ul>
+                    </div>
+                    <div data-animate="true" class="home-banner-img-bg fadein">
+                      <img data-animate="true" alt="BannerBG" loading="lazy" width="500" height="507" decoding="async"
+                        data-nimg="1" class="banner-img-bg fadein"
+                        srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFruitsTrading-banner-bg.910ccdc3.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFruitsTrading-banner-bg.910ccdc3.png&amp;w=1080&amp;q=75 2x"
+                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFruitsTrading-banner-bg.910ccdc3.png&amp;w=1080&amp;q=75"
+                        style="color: transparent; animation-delay: 150ms;">
+                    </div>
+                    <div data-animate="true" class="home-banner-img-main FruitsTradingBanner fadein"
+                      style="animation-delay: 300ms;"><img alt="BannerBG" loading="lazy" width="500" height="553"
+                        decoding="async" data-nimg="1" class="banner-img"
+                        srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFruitsTrading-banner.9d9c6fc0.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFruitsTrading-banner.9d9c6fc0.png&amp;w=1080&amp;q=75 2x"
+                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFruitsTrading-banner.9d9c6fc0.png&amp;w=1080&amp;q=75"
+                        style="color: transparent;"></div>
+                    <div data-animate="true" class="home-banner-slider-text-block Fruits-Trading fadein"
+                      style="animation-delay: 450ms;">
+                      <h3>Begin a <b>Fruit Retail Business in Dubai</b></h3>
+                      <div>
+                        <button class="schedule-meeting btn-anim">Schedule Meet</button>
+                        <button class="schedule-meeting chat">
+                          <img alt="ScheduleMeetingIcon" loading="lazy" width="32" height="30" decoding="async"
+                            data-nimg="1" src="/_next/static/media/schedule-meeting-icon.95c86504.svg"
+                            style="color: transparent;">
+                        </button>
+                      </div>
+                    </div>
+                  </div>
